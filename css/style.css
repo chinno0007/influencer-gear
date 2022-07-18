@@ -80,3 +80,24 @@ body {
 
 
 /* Influencer-Journey-End */
+
+/* Logo Start */
+.logo-special {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 36px 200px;
+    border: 1px solid gainsboro;
+    width: 900px;
+    margin: 0 auto;
+    border-left: none;
+    border-right: none;
+}
+
+/* hr {
+    width: 800px;
+    margin: 0 auto;
+    border: 1px solid gray;
+} */
+
+/* Logo End */
