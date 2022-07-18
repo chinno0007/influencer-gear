@@ -101,3 +101,38 @@ body {
 } */
 
 /* Logo End */
+
+
+/* popular collection start */
+.popular {
+    text-align: center;
+    font-size: 50px;
+    padding: 30px;
+}
+
+.popular-collection {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+
+
+}
+
+.collections {
+    margin: 20px;
+    background-color: #FFFFFF;
+    border: 15px solid #FFFFFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
+
+.collection-img img {
+    width: 100%;
+}
+
+.collection-info h2,
+h3,
+p {
+    margin: 5px;
+}
