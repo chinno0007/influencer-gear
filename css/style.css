@@ -12,7 +12,8 @@ body {
 
     max-width: 1400px;
     margin: 0 auto;
-
+    background-color: aliceblue;
+    padding: 30px 90px;
 
 }
 
@@ -20,8 +21,8 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 90px;
-    background-color: aliceblue;
+
+
 }
 
 .Infuencer-title {
@@ -36,3 +37,46 @@ body {
     margin: 16px;
 
 }
+
+/* Influencer-Journey-Start */
+.Influencer-Journey {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Influencer-Details {
+    /* width: 60%; */
+    width: 750px;
+
+}
+
+.Influencer-Details h1 {
+    font-size: 52px;
+    margin-bottom: 16px;
+}
+
+.Influencer-Details p small {
+    font-size: 16px;
+
+}
+
+.Influencer-Details button {
+    font-size: 16px;
+    margin-top: 16px;
+    background: #E02C6D;
+    padding: 15px;
+    border-radius: 41px;
+    border: none;
+    color: #FFFFFF;
+
+}
+
+.Influencer-Img {
+    width: 440px;
+
+
+}
+
+
+/* Influencer-Journey-End */
