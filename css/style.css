@@ -148,3 +148,22 @@ button {
     float: right;
 
 }
+
+/* footer start */
+.foot {
+    color: white;
+    background-color: black;
+    height: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.foot h1 {
+    text-align: center;
+}
+
+.foot p {
+    text-align: center;
+}
+
+/* footer end */
