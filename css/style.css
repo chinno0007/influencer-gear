@@ -87,18 +87,16 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 36px 200px;
-    border: 1px solid gainsboro;
     width: 900px;
     margin: 0 auto;
-    border-left: none;
-    border-right: none;
+
 }
 
-/* hr {
-    width: 800px;
+hr {
+    width: 1000px;
     margin: 0 auto;
     border: 1px solid gray;
-} */
+}
 
 /* Logo End */
 
